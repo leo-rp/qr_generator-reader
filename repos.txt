@@ -1,0 +1,7 @@
+reader: 
+yarn add vue-barcode-reader
+https://github.com/olefirenko/vue-barcode-reader
+
+generator:
+yarn add vue@3 qrcode@1 @chenfengyuan/vue-qrcode@2
+https://fengyuanchen.github.io/vue-qrcode/?ref=morioh.com&utm_source=morioh.com
