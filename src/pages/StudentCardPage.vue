@@ -1,16 +1,10 @@
 <template>
-  <StudentCard
-    studentName="Henry Rodriguez"
-    studentLink="https://www.linkedin.com/in/henry-l-rodriguez/"
-    studentPhoto="https://wssinternational.net/a/wp-content/uploads/elementor/thumbs/Leonardo-Rodriguez-Developer-o6pxfrp7a0q580pahabktj5fw9ibo5vlktc6q6yla8.png"
-  />
-
   <q-page class="flex flex-center">
-    <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    >
+    <StudentCard
+      studentName="Henry Rodriguez"
+      studentLink="https://www.linkedin.com/in/henry-l-rodriguez/"
+      studentPhoto="https://wssinternational.net/a/wp-content/uploads/elementor/thumbs/Leonardo-Rodriguez-Developer-o6pxfrp7a0q580pahabktj5fw9ibo5vlktc6q6yla8.png"
+    />
   </q-page>
 </template>
 

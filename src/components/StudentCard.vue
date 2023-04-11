@@ -14,7 +14,6 @@
       :alt="studentName"
     />
   </figure>
-  name: {{studentName}}
   photo: {{studentPhoto}}
   link: {{studentLink}}
 </template>

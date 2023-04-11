@@ -55,6 +55,12 @@ const linksList = [
     caption: 'student card',
     icon: 'school',
     link: 'studentCard'
+  },
+  {
+    title: 'student reader',
+    caption: 'student reader',
+    icon: 'school',
+    link: 'studentReader'
   }
 ]
 
